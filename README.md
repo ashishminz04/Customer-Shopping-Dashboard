@@ -1,4 +1,3 @@
-ChatGPT said:
 Customer Behavior Analysis
 
 This project analyzes customer behavior to identify patterns and insights that can improve business decision-making. The workflow includes data loading, exploration, database integration, and dashboard visualization.
