@@ -23,4 +23,3 @@ Tools Used
 
 Python, Pandas, MySQL, Power BI
 
-This project demonstrates a complete data analysis pipeline from raw data to actionable insights.
